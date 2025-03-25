@@ -1,5 +1,7 @@
 # memory-cards-game
 
+This is a simple Memory Card Matching Game built using Vue 3 and TypeScript. The game consists of a grid of face-down cards, each having a matching pair. Players flip two cards at a time to find matching pairs. If the selected cards match, they remain face-up; otherwise, they flip back over after a short delay. The objective is to match all pairs in the least number of moves.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
